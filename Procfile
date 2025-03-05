@@ -1,1 +1,1 @@
-web: gunicorn fp-risk-tool:app
+web: gunicorn app:app
